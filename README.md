@@ -1,11 +1,13 @@
 ![banner](banner.png)
 
-POCKETCHIP CONFIGURATION FOR TEXTMODE
--------------------------------------
+##POCKETCHIP CONFIGURATION FOR TEXTMODE
+
 
 ***
 
-> My very own configuration for PocketChip microcomputer. Be free to use and share
+
+> My very own configuration for PocketChip microcomputer. Be free to use, share or fork it
+
 
 ### Includes
 
