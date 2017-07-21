@@ -19,8 +19,13 @@ cd pocketchip
 mv pocketchip.kmap /home/chip/.config/
 rm /etc/rc.local
 cp rc.local /etc/
+rm /etc/modules
+cp modules /etc/modules
 cp battery /usr/bin/battery
 chmod 755 battery
+chmod +x motd.sh
+rm /etc/motd
+cp motd.sh /etc/profile.d/
 
 # GIT
 mv gitconfig /home/chip/.gitconfig

@@ -14,6 +14,5 @@
 # Keyboard
 /usr/bin/loadkeys /home/chip/.config/pocketchip.kmap
 # Ralink wifi chipsets
-modprobe rt2800usb
 echo "148f 5370" > /sys/bus/usb/drivers/rt2800usb/new_id
 exit 0

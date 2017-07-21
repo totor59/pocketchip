@@ -15,6 +15,7 @@
 * Support for rt2800usb based wifi adapters
 * Battery level in tmux status line
 * Python development axed vimrc
+* Custom MOTD
 * And more ... :)
 
 
@@ -46,6 +47,5 @@
 
 ### Todo
 
-* MOTD
 * bashrc chip & root
 * mutt config
