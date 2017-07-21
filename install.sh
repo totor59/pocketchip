@@ -1,3 +1,4 @@
+#!/bin/bash
 ###############################################################################
 # POCKETCHIP CONFIGURATION
 # 2017 totor59 <victormarechal59@gmail.com>
@@ -9,7 +10,7 @@
 apt-get -y update
 apt-get -y upgrade
 apt-get -y dist-upgrade
-apt-get -y install git-core vim-nox tmux python-pip mutt tree
+apt-get -y install git-core vim-nox tmux python-pip python-flake8 mutt tree 
 git clone https://github.com/totor59/pocketchip
 cd pocketchip
 
