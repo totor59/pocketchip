@@ -1,7 +1,9 @@
 # ------------------------------------------------------------------
 # MINIMAL GITCONFIG
 # ------------------------------------------------------------------
-
+[user]
+    name = totor59
+    email = victormarechal59@gmail.com
 [core]
   editor = vim
 [alias]
